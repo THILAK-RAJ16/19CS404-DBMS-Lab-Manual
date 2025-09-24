@@ -1,4 +1,4 @@
-# ER Diagram Workshop – Submission Template
+# ER Diagram Workshop
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
