@@ -300,11 +300,15 @@ CustomerID INTEGER references Customers(CustomerID)
 
 );
 ```
-
 **Output:**
 
 <img width="1787" height="222" alt="image" src="https://github.com/user-attachments/assets/352c759a-26d0-4f2d-bb01-3b54215a0671" />
 
+
+
+**Module 1 SEB grades:**
+---
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/84d61cd8-c744-41bb-b2b5-d4f08062c1b7" />
 
 
 ## RESULT
