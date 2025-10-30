@@ -185,6 +185,9 @@ select occupation,SUM(workhour) from employee1 group by occupation having sum(wo
 
 <img width="592" height="393" alt="image" src="https://github.com/user-attachments/assets/e84b2ed7-e65e-4170-b7fc-e858c2dc9458" />
 
+**Module 3 SEB grades**
+---
+<img width="1878" height="946" alt="image" src="https://github.com/user-attachments/assets/6c4deaa5-bbca-4b35-a069-f02fae34a736" />
 
 
 ## RESULT
