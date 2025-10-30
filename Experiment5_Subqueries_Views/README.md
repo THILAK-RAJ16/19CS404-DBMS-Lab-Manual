@@ -186,6 +186,10 @@ Select * from Employee where age<(Select avg(age) from Employee where income>250
 
 <img width="1249" height="444" alt="image" src="https://github.com/user-attachments/assets/81f07f22-2084-4d7c-adcb-73d2df42095e" />
 
+Module 4 SEB grades
+---
+<img width="1843" height="933" alt="image" src="https://github.com/user-attachments/assets/fbcbca68-9505-446e-aac8-479100f943e7" />
+
 
 
 ## RESULT
